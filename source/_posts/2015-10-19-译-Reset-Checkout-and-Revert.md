@@ -107,6 +107,35 @@ git reset HEAD~2 foo.py
 这个 `--soft`, `--mixed` 和 `--hard` 标识对文件层面的 `git reset` 并没有什么卵用。因为快照区一直在更新，而工作区从来不更新。
 
 ## Checkout
+检出一个文件和使用`git reset`后面带一个文件路径是类似的，唯一的不同是，它更新的是工作区而不是暂存区。并不像提交等级的版本那样，这个命令并不会移动`HEAD`的引用，这意味着你将不会切换分支。
+
+{%asset_img 08.svg%}
+
+比如，下面的命令将会使在工作区里的foo.py文件匹配倒数第二次提交的这个文件。
+
+```
+git checkout HEAD~2 foo.py
+```
+像提交等级的`git checkout`命令一样，这被用来检查一个项目的老的版本——但是他的作用范围是指定的文件。
+
+如果你暂存和提交这个检出的文件，这还会有回退到老文件的作用。注意这将移除所有随后的改变。但是`git revert`命令仅仅撤销某个指定的提交的改变。
+
+像`git reset`一样，这个命令常常和HEAD一起使用。比如，`git checkout HEAD foo.py`有丢弃未暂存的更改的作用。这有点类似`git reset HEAD --hard`,但是它操作的是指定的文件。
+
+## 总结
+你现在应该拥有所有工具去撤销改变了。`git reset`,`git checkout`,`git revert`命令可能是让人迷惑的，但是当你想一想它们对工作区，暂存区和提交历史的作用，对于那种命令适合哪种开发任务将会变的容易区别。
+
+下面的表格总结一些常用的用例，确保把这个手册放在手边，因为在你的Git生涯中，无疑你会用到它们中的一个或多个。
+
+Command   | Scope         | Common use cases |
+----------| --------------|-------------------|
+git reset |Commit-level   |Discard commits in a private branch or throw away uncommited changes|
+git reset |File-level     |Unstage a file|
+git checkout|Commit-level|Switch between branches or inspect old snapshots|
+git checkout|File-level|Discard changes in the working directory|
+git revert|Commit-level|Undo commits in a public branch|
+git revert|File-level|(N/A)|
+
 
 
 
