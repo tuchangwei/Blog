@@ -4,11 +4,11 @@
 
 # Site
 title: Vale's Blog
-subtitle: iOS developer, Android developer, Freelancer, Dad. 
+subtitle: iOS developer, Android developer, Freelancer, Dad.
 description: iOS developer, Android developer, Freelancer, Dad.
 author: Vale
 email: changweitu@gmail.com
-language:
+language: en
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -34,10 +34,12 @@ filename_case: 0
 render_drafts: true
 post_asset_folder: true
 relative_link: false
+
 highlight:
   enable: true
+  auto_detect: true
   line_number: true
-  tab_replace:
+  tab_replace: ''
 
 # Category & Tag
 default_category: uncategorized
@@ -109,9 +111,9 @@ social:
   GitHub: https://github.com/
   Twitter: https://twitter.com/ValeTu_1988
   Weibo: http://weibo.com/thankforyou
-  Facebook: https://www.facebook.com/changwei.tu.3
   Linkedin: http://cn.linkedin.com/pub/vale-tu/71/527/3a1/
   Upwork: http://www.upwork.com/o/profiles/users/_~01eeefc89751549361/
+  peopleperhour: https://www.peopleperhour.com/freelancer/changwei/tu/ios-android-developer-parse-layer/986083
   # 等等
 
 
@@ -123,7 +125,7 @@ creative_commons: by-nc-sa
 
 # Google 站长工具验证，请选择 `HTML Meta` 验证方式
 # See: https://www.google.com/webmasters/
-google_site_verification: 
+google_site_verification:
 
 
 # Google 分析 ID
@@ -131,7 +133,7 @@ google_analytics:
 
 
 # 百度统计 ID，此 ID 是百度统计提供脚本中 hm.js? 后面那串字符，非百度统计帐号
-baidu_analytics: 
+baidu_analytics:
 
 # 站点起始时间
 since: 2011
