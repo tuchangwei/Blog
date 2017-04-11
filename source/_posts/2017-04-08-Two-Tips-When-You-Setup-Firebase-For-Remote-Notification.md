@@ -24,9 +24,10 @@ But if you don't want the default action, for example, in my app, the launcher i
 
 Now, let us see how to send push to devices.
 
+```
 Method - POST
 
-EndPoint - [https://fcm.googleapis.com/fcm/send](https://fcm.googleapis.com/fcm/send)
+EndPoint - https://fcm.googleapis.com/fcm/send
 
 Header - 
 
@@ -36,27 +37,18 @@ Content-Type:application/json
 
 Body - 
 
-{ "notification": {
-
-​		"title": "Your Title",
-
-​		 "text": "Your Text",
-
-​		 "body": "Your body",
-
-​		 "click_action" : "PUSH"
-
-​	},
-
-   "data": {
-
-​    	"url": "xxx"
-
-​    },
-
-​	"to" : "fhXU7W5vnUE:APA91bEV6DonIBtIcb5C_iO3cBwnfvxjsALcus2cEj_AbBlkgFCzXavSt0xWEzH6py7r3dmxYnFu6erVpfTD1ZQIsIG6vynVsSFJ_cl8YfrpbeVGIITpqVdBVCOk7Q2PNVWuXGOn_fGK"
-
+{"notification": {
+		"title": "Your Title",
+		 "text": "Your Text",
+		 "body": "Your body",
+		 "click_action" : "PUSH"
+	},
+"data": {
+    	"url": "xxx"
+    },
+"to" : "pushToken"
 } 
+```
 
 The key-value `click_action` is the key point. I want MainActivity to initialize when the push is coming, so I config MainActivity in `AndroidManifest.xml` file
 
@@ -82,7 +74,5 @@ override fun onNewIntent(intent: Intent?) {
         }
 }
 ```
-
-
 
 Done!
