@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Vale's Blog
-subtitle: iOS developer, Android developer, Freelancer, Dad.
-description: iOS developer, Android developer, Freelancer, Dad.
-author: Vale
+title: Changwei's Blog
+subtitle: I develop iOS/Android apps with Swift/Kotlin language, contact me via Skype - valetu1988.
+description: I develop iOS/Android apps with Swift/Kotlin language, contact me via Skype - valetu1988.
+author: Changwei
 email: changweitu@gmail.com
 language: en
 
@@ -99,7 +99,7 @@ deploy:
 #duoshuo_shortname: ValeTu
 
 # DISQUS 帐号 （如果已经设置 多说 帐号，此选项将被跳过）
-disqus_shortname: tuchangwei
+# disqus_shortname: tuchangwei
 
 # JiaThis 分享服务
 #jiathis: true
@@ -109,7 +109,7 @@ disqus_shortname: tuchangwei
 # 社交链接，将在侧栏中显示
 social:
   GitHub: https://github.com/
-  Twitter: https://twitter.com/vale_tutu
+  Twitter: https://twitter.com/cwtututu
   Weibo: http://weibo.com/thankforyou
   Linkedin: http://cn.linkedin.com/pub/vale-tu/71/527/3a1/
   Upwork: http://www.upwork.com/o/profiles/users/_~01eeefc89751549361/

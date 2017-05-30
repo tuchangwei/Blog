@@ -1,18 +1,25 @@
 ---
-slug: "aboutme"
-title: AboutMe
+slug: "Portfolio"
+title: Portfolio
 nodata: "true"
 ---
 
-Hi, welcome to my blog. I am Vale, a full-time freelancer, have 4+ years iOS development experience, meanwhile, I develope Android apps.
+# Overview
+Hi, welcome to my blog. I am Changwei, a full-time freelancer, have 6+ years iOS development experience, meanwhile I develop Android apps.
 
 If you have a good idea and want to talk with a professional mobile developer, don't hesitate, contact me with the following ways:
+* Email Address: changweitu@gmail.com
+* Skype ID: valetu1988
 
-Email Address: changweitu@gmail.com
+# Portfolio
+Name: Dating.AI 
 
-Skype ID: valetu1988
+Keyword: Kotlin, Android, ConstraitLayout, Anko, Firebase.
 
-Thanks, have a good day :)
+Link: https://play.google.com/store/apps/details?id=dating.ai.find.face.date.app.meet.hookup.love.search.dating.apps.free.nearby.match.searching.straight.or.gay.on.tinder.and.pof
 
-# Click [here](index/portfolio.pdf) to download my portfolio.
+![Dating.AI](index/Group.png)
+
+***
+
 
