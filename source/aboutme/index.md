@@ -9,6 +9,10 @@ nodata: "true"
 
 *If you have a good idea and want to talk with a professional mobile developer, don't hesitate, contact me via [Upwork Profile](https://www.upwork.com/o/profiles/users/_~01eeefc89751549361/).*
 # Client Review
+{% blockquote Cavan, iOS App %}
+We love how smooth the all photos section scrolls and how fast it loads the photos in. We really appreciate you taking the time to make sure you code the apple app to work as efficient as possible.
+{% endblockquote %}
+***
 {% blockquote Heath, Android Job for Vale %}
 Amazing developer. He can do iOS and Android. This time, he ported our iOS app into Android from source code. He is trustworthy and responsive. Will continue to work with him.
 {% endblockquote %}
