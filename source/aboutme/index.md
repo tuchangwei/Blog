@@ -5,12 +5,21 @@ nodata: "true"
 ---
 
 # Overview
-*Hello, welcome to my technology blog. I am Changwei, I am a full-time freelancer and have 6+ years iOS development experience, meanwhile I develop Android apps.*
-
-*If you have a good idea and want to talk with a professional mobile developer, don't hesitate, contact me via [Upwork Profile](https://www.upwork.com/o/profiles/users/_~01eeefc89751549361/).*
-# Client Review
+I am a reliable senior mobile developer. I can make your iOS&Android Apps Elegant, Smooth, Funny and Great.
+My Strengths:
+✅ 100% Job Success
+✅ 100% satisfaction from clients
+✅ World-class quality and experience
+✅ 24/7 available
+✅ 9+ years of iOS development experience
+✅ 5+ years of Swift coding experience
+✅ 2+ years of Kotlin coding experience
+✅ work effciently by using Vim, RxSwift and RxJava
+# Job Success Score on Upwork
+![Level](index/UpworkLevel.png)
+# Work Feedback
 {% blockquote Cavan, iOS App %}
-We love how smooth the all photos section scrolls and how fast it loads the photos in. We really appreciate you taking the time to make sure you code the apple app to work as efficient as possible.
+We love how smooth the all photos section scrolls and how fast it loads the photos in. We really appreciate you taking the time to make sure you code the apple app to work as efficiently as possible.
 {% endblockquote %}
 ***
 {% blockquote Heath, Android Job for Vale %}
@@ -58,6 +67,7 @@ Good work and communication. He was proactive and helpfull. Testing of the app w
 Very good guy to work with. He help put the UI/UX of the app in code and pushed it to my iPhone. We went over the details until we got the whole thing working. He id lots of work to make sure that I get exactly I was after. His communication is brilliant even though we have 12hour time difference.   Will definetley be working with him again and recommending him as a 5/5 service provider.
 {% endblockquote %}
 
+You can find more work feedback from [My Upwork Profile](https://www.upwork.com/freelancers/~01eeefc89751549361)
 # Portfolio
 *Name: Dating.AI*
 
