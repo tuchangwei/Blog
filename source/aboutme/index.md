@@ -5,7 +5,10 @@ nodata: "true"
 ---
 
 # Overview
-I am a reliable senior mobile developer. I can make your iOS&Android Apps Elegant, Smooth, Funny and Great.
+I am a reliable senior mobile developer. I can make your iOS and Android Apps Elegant, Smooth, Funny and Great.
+
+I started writing apps in 2011, then I graduated in 2012 and got my Master's Degree, I guess I started remote work officially in 2013 when my girl was born until now. I like tasting the new technology, for example, I switched to Swift language immediately when the Swift 0.1 released. And I wrote my first Android app with Kotlin language before the Google officialy announced the Kotlin language as the first-class language on Android. I forgot when I started using Vim to write code but I can't leave it now. RxSwift let me think everything as a stream, it also let me understand SwiftUI and Combine framework fast.
+
 My Strengths:
 ✅ 100% Job Success
 ✅ 100% satisfaction from clients
@@ -13,8 +16,9 @@ My Strengths:
 ✅ 24/7 available
 ✅ 9+ years of iOS development experience
 ✅ 5+ years of Swift coding experience
+✅ 5+ years of Remote work experience
 ✅ 2+ years of Kotlin coding experience
-✅ work effciently by using Vim, RxSwift and RxJava
+✅ Use Vim, RxSwift and RxJava to get the fast development speed and steady productions.
 # Job Success Score on Upwork
 ![Level](index/UpworkLevel.png)
 # Work Feedback
@@ -69,10 +73,35 @@ Very good guy to work with. He help put the UI/UX of the app in code and pushed 
 
 You can find more work feedback from [My Upwork Profile](https://www.upwork.com/freelancers/~01eeefc89751549361)
 # Portfolio
+
+*Name: Holocam2*
+*Keyword: Swift, iOS, ConstraitLayout, RxSwift, Realm database, Gesture, AR, SceneKit*
+*Link: https://apps.apple.com/us/app/holocam/id1271485980*
+![Holocam2](index/Home_play.png)
+
+*Name: Pixeltopia*
+*Keyword: Swift, iOS, ConstraitLayout, RxSwift, Realm database, Gesture, Drawing*
+*Link: https://apps.apple.com/us/app/pixeltopia/id1478461880*
+
+![Pixeltopia](index/Artboard-1.png)
+
+***
+*Name: Scoutek*
+*Keyword: Swift, iOS, ConstraitLayout, RxSwift, Realm database*
+*Link: https://apps.apple.com/us/app/scoutek-camera-management/id1261889329*
+
+![Scoutek](index/Artboard.png)
+
+***
+*Name: Text to Speech*
+*Keyword: Swift, iOS, ConstraitLayout, RxSwift, Realm database*
+*Link: https://apps.apple.com/us/app/text-to-speech/id322329515*
+
+![Text to Speech](index/WX20200304-114155.png)
+***
+
 *Name: Dating.AI*
-
 *Keyword: Kotlin, Android, ConstraitLayout, Anko, Firebase.*
-
 *Link: https://play.google.com/store/apps/details?id=dating.ai.find.face.date.app.meet.hookup.love.search.dating.apps.free.nearby.match.searching.straight.or.gay.on.tinder.and.pof*
 
 ![Dating.AI](index/DatingAI.png)
@@ -80,9 +109,7 @@ You can find more work feedback from [My Upwork Profile](https://www.upwork.com/
 ***
 
 *Name: Talkz*
-
 *Keyword: Swift, iOS, ConstraitLayout, Audio, Video, Facebook SDK, Push, Universal app, iMessage App*
-
 *Link: https://itunes.apple.com/us/app/talkz-for-messenger-emoji/id632731625?mt=8*
 
 ![Talkz](index/Talkz.png)
@@ -90,9 +117,7 @@ You can find more work feedback from [My Upwork Profile](https://www.upwork.com/
 ***
 
 *Name: Sly Messenger*
-
 *Keyword: Swift, iOS, ConstraitLayout, Audio, Video, Layer SDK, Parse.com platform, Push*
-
 *Link: https://itunes.apple.com/cn/app/sly-messenger/id1044865073?mt=8*
 
 ![Sly Messenger](index/SlyMessenger.png)
@@ -100,54 +125,41 @@ You can find more work feedback from [My Upwork Profile](https://www.upwork.com/
 ***
 
 *Name: Job Sight*
-
 *Keyword: Swift, iOS, ConstraitLayout, Photo, AWS SDK, Push, Universal app, Background-transmission, Sqlite*
-
 *Link: https://itunes.apple.com/us/app/job-sight/id1122668726?mt=8*
 
 ![Job Sight](index/JobSight.png)
 
 ***
 *Name: 海尚搜*
-
 *Keyword: Swift, iOS, ConstraitLayout, Photo, Weibo SDK, Instagram SDK*
-
 *Link: https://itunes.apple.com/cn/app/hai-shang-sou/id1033452244?mt=8*
 
 ![海尚搜](index/HaiShangSou.png)
 
 ***
 *Name: GoWireless*
-
 *Keyword: Swift, iOS, ConstraitLayout, Photo, Push, Universal app, Background-transmission, Sqlite*
-
 *Link: https://itunes.apple.com/us/app/gowireless-camera-management/id1004081185?mt=8*
-
 ![GoWireless](index/GoWireless.png)
 
 ***
 *Name: Calvin*
-
 *Keyword: Object-C, iOS, Event Management*
-
 *Link: https://www.calvinapp.com*
 
 ![Calvin](index/Calvin.png)
 
 ***
 *Name: Oral medicin*
-
 *Keyword: Object-C, iOS 4.0, Offline-Read*
-
 *Link: https://itunes.apple.com/cn/app/oralmedicin/id714335041?l=en&mt=8*
 
 ![Oral medicin](index/OralMedicin.png)
 
 ***
 *Name: Wi-Fi Disk*
-
 *Keyword: Object-C, iOS 4.0, Smart Disk, Document, Video, Audio, Photo*
-
 *Link: https://itunes.apple.com/cn/app/wi-fi-storage/id741563168?l=en&mt=8*
 
 ![Wi-Fi Disk](index/WiFiDisk.png)
