@@ -5,9 +5,13 @@ nodata: "true"
 ---
 
 # Overview
-I am a reliable senior mobile developer. I can make your iOS and Android Apps Elegant, Smooth, Funny and Great.
+I am a reliable senior mobile developer, I can make your iOS and Android Apps Elegant, Smooth, Funny and Great.
 
-I started writing apps in 2011, then I graduated in 2012 and got my Master's Degree. I guess I started remote work officially in 2013 when my girl was born. I like tasting new technology, for example, I switched to Swift language immediately when the Swift 0.1 was released. And I wrote my first Android app with Kotlin language before the Google officialy announced the Kotlin language as the first-class language on Android. I forgot when I started using Vim to write code but I can't leave it now. RxSwift let me think everything as a stream, it also let me understand SwiftUI and Combine framework fast.
+I started writing iOS apps in 2011, then I graduated in 2012 and got my Bachelor's Degree. I guess I started remote work officially from 2013 when my girl was born. I like tasting new technology, for example, I switched to the Swift language immediately when the Swift 0.1 was released. And I wrote my first Android app with Kotlin language before Google officially announced the Kotlin language as the first-class language on Android.
+
+I use Vim to write code and Git to control code. RxSwift let me think everything as a stream, it also let me understand SwiftUI and Combine framework fast.
+
+Besides mobile development, I am also interested in back-end development. In college, I learned PHP and Java for back-end development, but now I would like to use the Server-side Swift.
 
 My Strengths:
 ✅ 100% Job Success
