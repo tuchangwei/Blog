@@ -17,7 +17,7 @@ My Strengths:
 ✅ 100% Job Success
 ✅ 100% satisfaction from clients
 ✅ World-class quality and experience
-✅ 24/7 email available
+✅ 24/7 available on Email or Skype
 ✅ 9+ years of iOS development experience
 ✅ 5+ years of Swift coding experience
 ✅ 5+ years of Remote work experience
