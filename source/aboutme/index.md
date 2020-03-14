@@ -7,11 +7,11 @@ nodata: "true"
 # Overview
 I am a reliable senior mobile developer, I can make your iOS and Android Apps Elegant, Smooth, Funny and Great.
 
-I started writing iOS apps in 2011, then I graduated in 2012 and got my Bachelor's Degree. I guess I started remote work officially from 2013 when my girl was born. I like tasting new technology, for example, I switched to the Swift language immediately when the Swift 0.1 was released. And I wrote my first Android app with Kotlin language before Google officially announced the Kotlin language as the first-class language on Android.
+I started writing iOS apps in 2011, then I graduated in 2012 and got my Bachelor's Degree. I guess I started remote work officially from 2013 when my girl was born. I like tasting new technology, for example, I switched to the Swift language immediately when the Swift 1.0 was released. And I wrote my first Android app with Kotlin language before Google officially announced the Kotlin language as the first-class language on Android.
 
 I use Vim to write code and Git to control code. RxSwift let me think everything as a stream, it also let me understand SwiftUI and Combine framework fast.
 
-Besides mobile development, I am also interested in back-end development. In college, I learned PHP and Java for back-end development, but now I would like to use the Server-side Swift.
+Besides mobile development, I am also interested in back-end development. In college, I learned PHP and Java for back-end development, but now I would like to use Python.
 
 My Strengths:
 ✅ 100% Job Success
@@ -78,20 +78,9 @@ Very good guy to work with. He help put the UI/UX of the app in code and pushed 
 You can find more work feedback from [My Upwork Profile](https://www.upwork.com/freelancers/~01eeefc89751549361)
 # Portfolio
 
-*Name: Holocam2*
-*Keyword: Swift, iOS, ConstraitLayout, RxSwift, Realm database, Gesture, AR, SceneKit*
-*Link: https://apps.apple.com/us/app/holocam/id1271485980*
-![Holocam2](index/Home_play.png)
 
-*Name: Pixeltopia*
-*Keyword: Swift, iOS, ConstraitLayout, RxSwift, Realm database, Gesture, Drawing*
-*Link: https://apps.apple.com/us/app/pixeltopia/id1478461880*
-
-![Pixeltopia](index/Artboard-1.png)
-
-***
 *Name: Scoutek*
-*Keyword: Swift, iOS, ConstraitLayout, RxSwift, Realm database*
+*Keyword: Swift, iOS, ConstraitLayout, RxSwift, Sqlite*
 *Link: https://apps.apple.com/us/app/scoutek-camera-management/id1261889329*
 
 ![Scoutek](index/Artboard.png)
@@ -119,7 +108,18 @@ You can find more work feedback from [My Upwork Profile](https://www.upwork.com/
 ![Talkz](index/Talkz.png)
 
 ***
+*Name: Holocam2*
+*Keyword: Swift, iOS, ConstraitLayout, RxSwift, Realm database, Gesture, AR, SceneKit*
+*Link: https://apps.apple.com/us/app/holocam/id1271485980*
+![Holocam2](index/Home_play.png)
 
+*Name: Pixeltopia*
+*Keyword: Swift, iOS, ConstraitLayout, RxSwift, Realm database, Gesture, Drawing*
+*Link: https://apps.apple.com/us/app/pixeltopia/id1478461880*
+
+![Pixeltopia](index/Artboard-1.png)
+
+***
 *Name: Sly Messenger*
 *Keyword: Swift, iOS, ConstraitLayout, Audio, Video, Layer SDK, Parse.com platform, Push*
 *Link: https://itunes.apple.com/cn/app/sly-messenger/id1044865073?mt=8*
