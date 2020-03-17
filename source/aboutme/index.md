@@ -11,7 +11,7 @@ I started writing iOS apps in 2011, then I graduated in 2012 and got my Bachelor
 
 I use Vim to write code and Git to control code. RxSwift let me think everything as a stream, it also let me understand SwiftUI and Combine framework fast.
 
-Besides mobile development, I am also interested in back-end development. In college, I learned PHP and Java for back-end development, but now I would like to use Python.
+Besides mobile development, I am also interested in back-end development. In college, I learned PHP and Java for back-end development, but now I would like to use Swift.
 
 My Strengths:
 ✅ 100% Job Success
