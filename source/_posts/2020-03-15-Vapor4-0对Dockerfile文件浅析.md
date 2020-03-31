@@ -1,6 +1,7 @@
 title: Vapor4.0对Dockerfile文件浅析
 date: 2020-03-15 10:54:37
 tags:
+categories: Vapor4.0
 ---
 昨天周六，被Docker中配置Vapor搞到脑袋要炸，差一点放弃Vapor的学习。但今天感觉还好，脑炸是源于对未知的恐惧。
 

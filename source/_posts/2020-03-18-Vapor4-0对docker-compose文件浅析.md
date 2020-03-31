@@ -1,6 +1,7 @@
 title: Vapor4.0对docker-compose文件浅析
 date: 2020-03-18 10:46:20
 tags:
+categories: Vapor4.0
 ---
 上篇对`docker-compose.yml`的某些理解有误，这篇对某些命令进行浅解。
 ```
