@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Changwei's Blog
-subtitle: I develop iOS/Android apps with Swift/Kotlin language.
+title: Senior Mobile Developer - Vale 
+subtitle: Contact me via changweitu@gmail.com | @cwtututu.
 description: I develop iOS/Android apps with Swift/Kotlin language.
 author: Changwei
 email: changweitu@gmail.com
@@ -99,7 +99,7 @@ deploy:
 #duoshuo_shortname: ValeTu
 
 # DISQUS 帐号 （如果已经设置 多说 帐号，此选项将被跳过）
-# disqus_shortname: tuchangwei
+disqus_shortname: tuchangwei
 
 # JiaThis 分享服务
 #jiathis: true
