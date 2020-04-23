@@ -2,7 +2,7 @@ title: '[Vapor4.0]deploy app on server'
 date: 2020-04-23 17:04:49
 
 tags:
-categories: Vapor 4.0
+categories: Vapor4.0
 ---
 Just record the steps how I deploy my vapor project on the server.
 
