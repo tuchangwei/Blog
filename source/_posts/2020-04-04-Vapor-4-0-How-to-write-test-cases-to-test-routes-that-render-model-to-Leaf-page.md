@@ -2,7 +2,7 @@ title: >-
   [Vapor 4.0]How to write test cases to test routes that render model to Leaf
   page
 date: 2020-04-04 22:45:06
-
+tags:
 Categories: Vapor4.0
 ---
 
